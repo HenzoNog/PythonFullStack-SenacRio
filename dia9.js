@@ -1,3 +1,5 @@
+//GABARITO DOS EXERCICIOS DO DIA 8//
+
 //1
 
 function calcularMedia () {
