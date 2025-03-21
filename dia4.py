@@ -1,4 +1,4 @@
-'''REVISÃO CONCEITOS DA AULA 4'''
+'''REVISÃO CONCEITOS DA AULA 3'''
 
 n1 = float(input("Digite a primeira nota: "))
 n2 = float(input("Digite a segunda nota: "))
