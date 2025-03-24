@@ -1,0 +1,619 @@
+NOTAS- TRABALHAR VAGABUNDO: GitHub, Linkdlin, GetNinjas, UpWork (criar conta bancaria internacional).
+:O
+°-°
+:O
+°-°
+:O
+°-°
+:O
+°-°
+:O
+°-°
+E-mail: henzo.nogueira@aluno.senac.rio
+Senha: Henzo@15994
+________________________________________________________________________________________________________
+Dia 01
+24/02/25                                                               •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━❆━━━━━◈
+
+
+
+Algoritmos_|Front End|_Back End
+.....
+ALGORITMOS:
+°Input--Output
+
+
+1-como fazer para chegar ao senac
+2-como você faria para fazer seu sanduiche preferido
+3-como fazer um bolo
+4-o que você faria para trocar o pneu de um carro
+
+
+1- Ao dar 16:40, começar a se aprontar para o curso
+    Ajeitar a mochila, pegar um casaco e o que comer
+     Ir ao banheiro para tomar um banho
+        Sair do banheiro 
+          Ir para o quarto e abrir o guarda roupa
+             Pegar camisa, cueca e bermuda de preferencia que combine
+                Combinações (se pegar uma camisa branca,
+ usar bermudas bage ou preta escolhida aleatoriamente, se pegar uma camisa de quaisquer cor, bermuda preta)
+               Após se arrumar, pegar as coisas que aprontou e sair de casa
+                Andar ate a esquina da rua e esperar o onibus 108 do outro lado a minha rua
+                 Após pegar o onibus ver se tem lugar para sentar
+                    se sim ("sente")
+                    se não ("ficar em pé") 
+                  Ficar atento ao sinal até chegar na avenida bairros junior
+                  Ao chegar na avenida Bairros Junior apertar o sinal e sair do onibus
+                Assim que sair do onibûs andar no sentido do onibus e após ele virar-se, e virar a primeira direita
+                 Seguir reto ate dar na prefeitura
+                  Após chegar na prefeitura observar a rua que tem um predio escrito senac
+                   Atravessar a rua e seguir reto até o curso senac
+    Ao entrar no curso, se posicionar de frente ao elevador a direita e apertar o botão
+       Quando o elevador chegar, entrar nele
+         Assim que entrar, apertar o botão do 3° andar
+          Ao chegar no primeiro andar, virar-se a esquerda e encontrar a reta de corredores 
+            Entrar na sala 301 a primeira direita, primeira porta
+
+
+
+
+2- 
+___________________________________________________________________________________________________________________________________________________
+
+Dia 02
+26/02/25
+                                                                       •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━❆━━━━━◈
+
+                                                   LINGUAGEM COMPILADA x LINGUAGEM INTERPRETADA
+
+                         A principal diferença entre linguagens interpretadas e compiladas está no processo de execução do código, ou seja,
+                                 como o código-fonte é transformado em um formato que o computador pode entender e executar
+
+   Linguagens Compiladas
+
+     Definição:
+       Uma linguagem compilada é aquela cujo código-fonte é transformado (compilado) diretamente em código de máquina ou código intermediário por        um          compilador. O resultado dessa compilação é um arquivo executável (como um .exe no Windows ou um arquivo binário em sistemas Unix).
+       Exemplo:C, C++, Rust.
+
+   Características:
+       O código-fonte é lido e convertido completamente de uma vez pelo compilador.
+       O processo de compilação ocorre antes da execução do programa.
+       O programa gerado é independente do código-fonte, ou seja, após a compilação, o código gerado pode ser executado sem a necessidade do código-fonte           original.
+       A execução tende a ser mais rápida, pois o código já está em um formato de máquina direto.
+       Erros são encontrados no processo de compilação, o que pode ser uma vantagem (todos os erros são identificados antes da execução), mas também pode           ser mais difícil de depurar.
+   
+   Linguagens Interpretadas
+      Definição: Linguagens interpretadas são aquelas em que o código-fonte é executado diretamente por um programa chamado interpretador, linha por linha         ou bloco por bloco, sem precisar de uma fase de compilação para gerar um arquivo executável.
+      Exemplo:Python, JavaScript, Ruby.
+  Características:
+      O código-fonte é lido e executado linha por linha, ou seja, a execução ocorre enquanto o código está sendo interpretado.
+      O código-fonte original é necessário toda vez que o programa for executado.
+      A execução pode ser mais lenta, pois o interpretador precisa traduzir o código-fonte em tempo real.
+      Erros são encontrados durante a execução do código, o que pode ser útil para depuração, mas também significa que o programa pode continuar a executar         parcialmente, mesmo com erros.
+
+
+
+
+
+Característica|    Linguagem Compilada    |Linguagem Interpretada                |
+______________|___________________________|______________________________________|                                     
+              |                           |                                      |
+Execução      |Compilação prévia em código|                                      |
+              | de máquina                |Execução direta, linha por linha      | 
+______________|___________________________|______________________________________|
+              |                           |                                      |
+Exemplos      |       C, C++, Rust        |     Python, JavaScript, Ruby         |
+______________|___________________________|______________________________________|  
+              |                           |                                      |
+Velocidade    |Normalmente mais rápida    |	  Normalmente mais lenta         |
+______________|___________________________|______________________________________|
+              |                           |                                      |
+Erro          |Erros encontrados durante  |                                      | 
+              |  a compilação             | Erros encontrados durante a execução |
+______________|___________________________|______________________________________|  
+              |                           |                                      |
+Portabilidade |	Código compilado          |Código-fonte pode ser executado em    |
+              |  depende do sistema       |   diferentes plataformas com o       |
+              |                           |   interpretador adequado             |
+              |	                          |                                      |
+______________|___________________________|______________________________________|    
+
+VARIAVEIS
+//Declaração de Variaveis
+let nome= 'joão'// var str
+let idade= 20 // int
+let altura= 1.77 // float
+//Exibindo os valores das variaveis
+console.log("nome: " + nome);
+console.log("idade:" + idade);
+console.log("altura:" + altura);  
+
+
+___________________________________________________________________________________________________________________________
+Dia 03
+28/02/25
+
+                                                                       •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━❆━━━━━━━◈
+
+Git Clone: para clonar o diretorio da url do github 
+              for example: https://github.com/HenzoNog/PythonFullStack-2025
+cd: Para poder achar o diretorio
+              for example: PythonFullStack-2025
+ls:mostra as pastas do diretorio
+_____________________________________________________________________________________________________________________________
+Dia 04
+07/03/25
+
+#Aula no GitHub
+#Introdução à Variaveis
+					
+____________________________________________________________________________________________________________________________
+Dia 05
+10/03/25
+
+                                                                        •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━━❆━━━━━━━◈
+
+
+#Instalar o Node.Js alem do VsCode
+#DESCRIÇÃO DO GRUPO GITHUB DAS AULAS
+
+______________________________________________________________________________________________________________________
+ESCOPO °Define onde uma variável pode ser acessada no código. Em JavaScript, existem três tipos principais de escopo:
+______________________________________________________________________________________________________________________
+//   
+   -Global- °Variáveis declaradas fora de funções ou blocos {} podem ser acessadas em qualquer lugar do código.
+
+var globalVar = "Estou no escopo global!";
+
+function test() {
+    console.log(globalVar); // Acessa normalmente
+}
+
+test();
+console.log(globalVar); // Também acessa
+     
+//
+      -Bloco- °Variáveis declaradas com let ou const dentro de blocos {} só existem dentro do bloco
+
+if (true) {
+    let blockVar = "Estou dentro do bloco!";
+    console.log(blockVar); // Funciona
+}
+
+console.log(blockVar);
+
+#COM VAR NÃO HÁ ESCOPO DE BLOCO
+
+if (true) {
+    var test = "Var ignora o escopo de bloco";
+}
+console.log(test); // Funciona! Mas pode causar bugs
+
+//
+
+      -Função- °Variáveis declaradas com var, let ou const dentro de uma função só podem ser acessadas dentro dela.
+
+Variáveis declaradas com var, let ou const dentro de uma função só podem ser acessadas dentro dela.
+javascript
+Copiar
+Editar
+function myFunction() {
+    var localVar = "Sou local!";
+    console.log(localVar); // Funciona dentro da função
+}
+
+myFunction();
+console.log(localVar); // Erro! localVar não existe fora da função
+
+//
+LET E VAR
+
+//
+Em Java:
+____________________________________________________________________________________________________________________________________________
+Hoisting é um comportamento do JavaScript onde declarações de variáveis e funções são "elevadas" para o topo do seu escopo antes da execução do código.
+____________________________________________________________________________________________________________________________________________
+Com var
+A variável é declarada no topo, mas inicializada como undefined.
+
+//
+
+console.log(a); // undefined
+var a = 10;
+console.log(a); // 10
+
+//
+
+
+ O JavaScript trata isso como:
+
+var a; // Hoisting da declaração (não da inicialização)
+console.log(a); // undefined
+a = 10;
+console.log(a); // 10
+
+//
+
+Com let e const
+Sofrem hoisting, mas não são inicializadas automaticamente.
+Se acessadas antes da declaração, geram um erro (ReferenceError).
+
+//
+
+console.log(b); // ReferenceError
+let b = 20;
+
+//
+
+O JavaScript entende assim:
+
+// let b; (a variável existe no "Temporal Dead Zone", mas não pode ser acessada)
+console.log(b); // Erro
+b = 20;
+
+//
+
+Com funções
+Declarações de funções (function nome() {}) sofrem hoisting com a definição completa.
+
+sayHello(); // "Hello!"
+function sayHello() {
+    console.log("Hello!");
+}
+
+//
+
+Já expressões de função (const nome = function() {}) não funcionam antes da definição.
+
+sayHi(); // TypeError: sayHi is not a function
+const sayHi = function() {
+    console.log("Hi!");
+};
+
+______________________________________________________________________________________________________________________________________________________
+
+Dia 06
+12/03/25
+
+
+                                                                          •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━━❆━━━━━━━◈
+
+#Correção DIA 5
+#Aprimorar input e os erros comuns
+
+FOR E RANGE
+O for em Python é usado para repetir um bloco de código um determinado número de vezes ou para percorrer elementos de uma sequência (como listas, strings e ranges)
+O range() gera sequências de números, ajudando a controlar quantas vezes o loop será executado.
+
+for i in range (1, 6):
+    print(i)
+
+// saída:
+
+
+1
+2
+3
+4
+5
+
+
+O i recebe a função de "variavel" para a contagem atuando como um precedente do contador.
+
+|WHILE|
+O while é uma estrutura de repetição usada para executar um bloco de código enquanto uma condição for verdadeira. Ou seja, enquanto a condição especificada dentro do while for atendida, o programa continuará executando o código dentro do laço.
+
+contador = 0
+
+while contador < 5:
+    print(contador)
+    contador += 1  # Incrementa o contador
+
+//saída
+
+0
+1
+2
+3
+4
+____________________________________________________________________________________________________________________________________________________________
+Dia 7
+14/03/25
+
+                                                                         •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━━❆━━━━━━━◈
+#Exercicios DoWhile, For i range
+#Aula em js e py no GitHub
+
+________________________________________________________________________________________________________________________________________________________________
+Dia 08
+17/03/25
+                                                                          •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━━❆━━━━━━━◈
+#Const Readline e FUNÇÕES
+
+
+1. Const em JS
+const é uma palavra-chave usada para declarar uma variável cujo valor não pode ser alterado depois que for inicializado. Ou seja, uma vez atribuída, a variável não pode ser reatribuída a outro valor.
+
+const nome = "João";
+nome = "Maria";  // Erro: não é possível reatribuir valor a uma constante
+
+2. readline (módulo do Node.js)
+
+//
+
+O módulo readline do Node.js é usado para ler dados da entrada padrão (como o teclado) de maneira interativa. Ele é comumente usado para criar interfaces de linha de comando que permitem que o usuário insira dados.
+
+Para usar o módulo readline, você precisa requerê-lo com o comando require.
+
+//
+
+const readline = require('readline');
+
+const rl = readline.createInterface({
+    input: process.stdin,   // Entrada padrão (teclado)
+    output: process.stdout  // Saída padrão (console)
+});
+
+3. Funções em JavaScript
+
+//
+
+Uma função é um bloco de código que pode ser chamado para ser executado. Elas podem ter parâmetros (entradas) e retornar valores (saídas).
+
+function saudacao(nome) {
+    console.log("Olá, " + nome + "!");
+}
+
+saudacao("Maria");  // Saída: Olá, Maria!
+
+4. return em JavaScript
+
+//
+
+O return é usado dentro de uma função para retornar um valor para onde a função foi chamada. Ou seja, o return encerra a execução da função e envia um valor de volta.
+
+function somar(a, b) {
+    return a + b;  // Retorna a soma de a e b
+}
+
+let resultado = somar(2, 3);  // A variável "resultado" recebe o valor retornado
+console.log(resultado);  // Saída: 5
+
+5. rl.question() em JavaScript
+
+//
+
+O rl.question() é um método do módulo readline que permite fazer perguntas ao usuário e aguardar a resposta. Ele recebe dois parâmetros:
+
+A pergunta que será exibida ao usuário.
+
+Uma função de callback, que será executada quando o usuário fornecer a resposta.
+
+//
+
+const readline = require('readline');
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+rl.question('Qual é o seu nome? ', (resposta) => {
+    console.log('Olá, ' + resposta + '!');
+    rl.close();  // Fecha a interface de readline após a resposta
+});
+
+O método rl.question() pergunta ao usuário "Qual é o seu nome?".
+
+Quando o usuário digita a resposta e pressiona Enter, a função callback é chamada, exibindo uma saudação personalizada.
+
+O rl.close() fecha a interface de leitura após a resposta.
+
+
+
+
+//
+
+
+
+RESUMO:
+const: Declara uma variável cujo valor não pode ser alterado depois de ser definido.
+
+readline: Módulo do Node.js usado para criar interfaces de linha de comando interativas.
+
+Funções: Blocos de código que podem ser chamados para realizar tarefas específicas. Podem aceitar parâmetros e retornar valores com o return.
+
+return: Retorna um valor de dentro de uma função para o local onde a função foi chamada.
+
+rl.question(): Método do módulo readline que permite fazer perguntas ao usuário e capturar suas respostas.
+
+_________________________________________________________________________________________________________________________________________________________
+Dia 9
+19/03/25
+
+                                                                         •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━━❆━━━━━━━◈
+
+//////////////////
+////VARIAVEIS////
+////////////////
+
+
+Tipos de dados:
+°List - [0, 1, 2, 3]
+°Bool - True, False
+°Null - Ausência de valor  
+°Int - 10, -3, 0
+°Float - 3.14, -0,5
+°String (str) - "Olá Mundo!"
+___________________________________________________________________________________________________________________
+ARRAYS:
+push()
+pop()
+unshift()
+shift()
+length
+includes()
+indexOf()
+splice()
+slice()
+
+__________________________________________________________________________________________________________________
+
+Push ():
+O método push() é usado para adicionar um ou mais elementos ao final de um array em JavaScript.
+
+array.push(elemento1, elemento2, ...);
+//
+let frutas = ["Maçã", "Banana"];
+frutas.push("Laranja"); 
+
+console.log(frutas);  //PROMPT: ["Maçã", "Banana", "Laranja"]
+_____________________________________________________________________________________________________________________
+Index() && indexOf():
+O índice (index) em JavaScript é a posição numérica de um elemento dentro de um array ou string.
+Os índices começam em 0, ou seja, o primeiro elemento está na posição 0, o segundo na posição 1, e assim por diante.
+
+//
+
+let frutas = ["Maçã", "Banana", "Laranja"];
+
+console.log(frutas[0]); // "Maçã" (índice 0)
+console.log(frutas[1]); // "Banana" (índice 1)
+console.log(frutas[2]); // "Laranja" (índice 2)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+indexOf():
+ método indexOf() retorna o índice da primeira ocorrência de um elemento no array.
+
+//
+
+let cores = ["Azul", "Vermelho", "Verde", "Amarelo"];
+
+console.log(cores.indexOf("Verde")); // 2
+console.log(cores.indexOf("Preto")); // -1 (não encontrado)
+
+
+//As strings também funcionam como arrays de caracteres, então podemos acessar cada letra pelo índice.
+
+let palavra = "JavaScript";
+
+console.log(palavra[0]); // "J"
+console.log(palavra[4]); // "S"
+console.log(palavra[9]); // "t"
+
+
+//Para encontrar a posição de uma letra na string, usamos indexOf():
+
+console.log(palavra.indexOf("S")); // 4
+console.log(palavra.indexOf("a")); // 1 (primeira ocorrência)
+console.log(palavra.indexOf("Z")); // -1 (não encontrado)
+
+
+////////////////////////////////////////////////////////////////////////////////////
+
+//COM FOR:
+let numeros = [10, 20, 30, 40];
+
+for (let i = 0; i < numeros.length; i++) {
+    console.log(`Índice ${i}: ${numeros[i]}`);
+}
+
+//PROMPT:
+//
+//Índice 0: 10
+//Índice 1: 20
+//Índice 2: 30
+//Índice 3: 40
+
+
+______________________________________________________________________________________________________________________
+randomIndex
+slice
+floor
+sort
+randomNum
+
+
+end - start
+arroy.from({ lenght
+
+(_, i) => start +i)
+
+
+Exsercise:
+// 1: Crie uma função que recebe um array de números e retorna
+ a soma de todos os elementos.
+// 2: Crie uma função que recebe um array de strings e retorna um
+ novo array com as strings em ordem alfabética.
+// 3: Crie uma função que recebe um array e retorna um novo array
+ sem elementos duplicados.
+
+_____________________________________________________________________________________________________________________________
+Dia 10
+21/03/25
+
+                                                                         •|⊱✿⊰|•
+                                                                 ◈━━━━━━━━━━━━━━━━━━━━━━━◈
+                                                                  ◈━━━━━━━━━━━━━━━━━━━━◈
+                                                                    ◈━━━━━━━❆━━━━━━━◈
+
+#MATRIZES
+#Jogo de Batalha Naval no GitHub
+
+Matrizes (ou arrays bidimensionais) são estruturas de dados que armazenam valores em formato de tabela, ou seja, uma coleção de arrays dentro de um array. Vou te explicar como trabalhar com matrizes tanto em JavaScript quanto em Python, para que você possa entender bem os dois.
+
+//1.Criando uma matriz 2x3 (2 linhas e 3 colunas):
+
+let matriz = [
+  [1, 2, 3],  // Primeira linha
+  [4, 5, 6]   // Segunda linha
+];
+
+console.log(matriz);
+
+//2. Acessando elementos de uma matriz:
+
+console.log(matriz[0][1]); // Acessa o elemento da primeira linha e segunda coluna (valor 2)
+
+//3.Alterando elementos da matriz:
+
+matriz[1][2] = 10;  // Altera o valor da segunda linha, terceira coluna para 10
+console.log(matriz);
+
+//4.Percorrendo uma matriz:
+
+Você pode usar loops como for ou forEach para percorrer a matriz.
+
+for (let i = 0; i < matriz.length; i++) {
+    for (let j = 0; j < matriz[i].length; j++) {
+        console.log(`Elemento [${i}][${j}] = ${matriz[i][j]}`);
+    }
+}
+_____________________________________________________________________________________________________________________________________________________________
+Dia 11
+24/03/25
