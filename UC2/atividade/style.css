@@ -1,0 +1,15 @@
+.navbar-bg {
+    background-image: url('img/minha-imagem.jpg'); /* coloca o caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+  }
+  
+  .navbar-brand {
+    font-size: 2.5rem; /* ou use fs-1 no HTML */
+    color: white;
+  }
+  
+  .navbar-brand:hover {
+    color: #f0f0f0;
+  }

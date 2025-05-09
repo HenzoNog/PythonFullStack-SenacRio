@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fale Conosco - VI$CA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+ 
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container d-flex justify-content-between align-items-center">
+            
+            <div class="d-flex align-items-center">
+            
+                <a class="navbar-brand mb-0" href="#">VI$CA</a>
+            </div>
+            <ul class="dropdown-menu custom-dropdown">
+                <li><a class="dropdown-item" href="login.html"> Login</a></li>
+                <li><a class="dropdown-item" href="cadastro.html"> Cadastro</a></li>
+            </ul>
+        </div>
+
+    
+           
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="produtos.html">Produtos</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="contato.html">Fale Conosco</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+   
+    <section class="contato-section">
+        <div class="container">
+            <h2 class="section-title text-center">Fale Conosco</h2>
+            <p class="text-center">Estamos aqui para te ouvir! Preencha o formulário abaixo para entrar em contato.</p>
+
+            
+            <form action="#" method="POST" class="contato-form">
+                <div class="mb-3">
+                    <label for="nome" class="form-label">Nome:</label>
+                    <input type="text" class="form-control" id="nome" name="nome" required placeholder="Seu nome">
+                </div>
+
+                <div class="mb-3">
+                    <label for="email" class="form-label">E-mail:</label>
+                    <input type="email" class="form-control" id="email" name="email" required placeholder="Seu e-mail">
+                </div>
+
+                <div class="mb-3">
+                    <label for="mensagem" class="form-label">Mensagem:</label>
+                    <textarea class="form-control" id="mensagem" name="mensagem" rows="5" required placeholder="Sua mensagem..."></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </div>
+    </section>
+
+    
+    <footer class="bg-dark text-white text-center py-4">
+        <p>2025 VI$CA - Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+
+</body>
+</html>

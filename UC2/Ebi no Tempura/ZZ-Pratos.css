@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+p{
+    font-size: 2rem;
+    text-align: right
+    ;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: #333;
+    font-size: 2rem !important;
+
+}
+h2{
+    color: #333;
+    font-size: 2rem !important;
+}
+.imagem-prato {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: block;
+}
+.descricao-prato {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+.link-receita {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.link-receita:hover {
+    background-color: #45a049;
+}
